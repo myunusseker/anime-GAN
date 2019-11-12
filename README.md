@@ -12,7 +12,13 @@ Implemented with:
 
 Dataset:
   * Should be under a folder named: /data
-  * Link will be referenced soon
+  * https://github.com/pavitrakumar78/Anime-Face-GAN-Keras/blob/master/anime_dataset_gen.py
+  * https://www.kaggle.com/aadilmalik94/animecharacterfaces
+  * Checkout https://github.com/nikitaa30/Manga-GAN
+  
+References:
+  * https://github.com/jacobgil/keras-dcgan
+  * https://github.com/DataSnaek/DCGAN-Keras
 
 Models:
 
